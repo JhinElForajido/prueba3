@@ -11228,15 +11228,3 @@ body {
   visibility: visible;
 }
 
-.btn-datatable {
-  height: 20px !important;
-  width: 20px !important;
-  font-size: 0.75rem;
-  border-radius: 0.375rem !important;
-}  order: 6 !important;
-  }
-  .m-xl-0 {
-    margin: 0 !important;
-  }
-  .m-xl-1 {
-    margin: 0.25rem !important;

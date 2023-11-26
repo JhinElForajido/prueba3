@@ -21,4 +21,6 @@ from gestorUser import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index),
+    path('Login/', views.Login, name="Login"),
+    path("dashboard/", views.Registro , name="dashboard"), 
 ]
